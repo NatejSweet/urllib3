@@ -1,3 +1,12 @@
+2.4.1 (2025-05-01)
+==================
+
+Documentation
+-------------
+
+- Renamed `notes` folder to `developer-notes` and moved it to `docs/developer-notes`.
+
+
 2.4.0 (2025-04-10)
 ==================
 
